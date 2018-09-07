@@ -42,3 +42,8 @@ html {
   max-height: 100%;
   float: right;
 }
+
+.card hearer, .card footer{
+  height: 3em;
+  padding: 1em; 
+}
