@@ -43,7 +43,7 @@ html {
   float: right;
 }
 
-.card hearer, .card footer{
+.card header, .card footer{
   height: 3em;
   padding: 1em; 
 }
